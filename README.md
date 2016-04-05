@@ -1,7 +1,2 @@
 # Multi-Security
-echo "# Multi-Security" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/eridasa/Multi-Security.git
-git push -u origin master
+Grouo Project in Lincoln College by Eridas Alminas, Joshua Ross, Kai Hallam, Jack Richards
