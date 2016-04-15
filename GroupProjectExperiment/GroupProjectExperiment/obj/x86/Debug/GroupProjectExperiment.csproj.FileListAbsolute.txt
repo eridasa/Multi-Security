@@ -1,0 +1,8 @@
+c:\users\eridas\documents\visual studio 2010\Projects\GroupProjectExperiment\GroupProjectExperiment\bin\Debug\GroupProjectExperiment.exe
+c:\users\eridas\documents\visual studio 2010\Projects\GroupProjectExperiment\GroupProjectExperiment\bin\Debug\GroupProjectExperiment.pdb
+c:\users\eridas\documents\visual studio 2010\Projects\GroupProjectExperiment\GroupProjectExperiment\obj\x86\Debug\GroupProjectExperiment.Form1.resources
+c:\users\eridas\documents\visual studio 2010\Projects\GroupProjectExperiment\GroupProjectExperiment\obj\x86\Debug\GroupProjectExperiment.Properties.Resources.resources
+c:\users\eridas\documents\visual studio 2010\Projects\GroupProjectExperiment\GroupProjectExperiment\obj\x86\Debug\GroupProjectExperiment.csproj.GenerateResource.Cache
+c:\users\eridas\documents\visual studio 2010\Projects\GroupProjectExperiment\GroupProjectExperiment\obj\x86\Debug\GroupProjectExperiment.exe
+c:\users\eridas\documents\visual studio 2010\Projects\GroupProjectExperiment\GroupProjectExperiment\obj\x86\Debug\GroupProjectExperiment.pdb
+C:\Users\Eridas\Documents\Visual Studio 2010\Projects\GroupProjectExperiment\GroupProjectExperiment\obj\x86\Debug\GroupProjectExperiment.csprojResolveAssemblyReference.cache
