@@ -1,0 +1,42 @@
+c:\users\eridas\documents\visual studio 2015\Projects\EJJK File Security\EJJK File Security\bin\Debug\EJJK File Security.exe.config
+c:\users\eridas\documents\visual studio 2015\Projects\EJJK File Security\EJJK File Security\bin\Debug\EJJK File Security.exe
+c:\users\eridas\documents\visual studio 2015\Projects\EJJK File Security\EJJK File Security\bin\Debug\EJJK File Security.pdb
+c:\users\eridas\documents\visual studio 2015\Projects\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.Properties.Resources.resources
+c:\users\eridas\documents\visual studio 2015\Projects\EJJK File Security\EJJK File Security\obj\Debug\EJJK File Security.csproj.GenerateResource.Cache
+c:\users\eridas\documents\visual studio 2015\Projects\EJJK File Security\EJJK File Security\obj\Debug\EJJK File Security.exe
+c:\users\eridas\documents\visual studio 2015\Projects\EJJK File Security\EJJK File Security\obj\Debug\EJJK File Security.pdb
+c:\users\eridas\documents\visual studio 2015\Projects\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmStartScreen.resources
+c:\users\eridas\documents\visual studio 2015\Projects\EJJK File Security\EJJK File Security\obj\Debug\EJJK File Security.csprojResolveAssemblyReference.cache
+c:\users\eridas\documents\visual studio 2015\Projects\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmPasswordEntryInit.resources
+c:\users\eridas\documents\visual studio 2015\Projects\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmPinInit.resources
+c:\users\eridas\documents\visual studio 2015\Projects\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmFileSelector.resources
+c:\users\eridas\documents\visual studio 2015\Projects\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmControlPanel.resources
+c:\users\eridas\documents\visual studio 2015\Projects\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmFaceRecogLogin.resources
+c:\users\eridas\documents\visual studio 2015\Projects\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmPasswordEntryLogin.resources
+c:\users\eridas\documents\visual studio 2015\Projects\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmPinEntryLogin.resources
+c:\users\eridas\documents\visual studio 2015\Projects\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmSettings.resources
+c:\users\eridas\documents\visual studio 2015\Projects\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmSpeechRecogLogin.resources
+c:\users\eridas\documents\visual studio 2015\Projects\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmStartInit.resources
+c:\users\eridas\documents\visual studio 2015\Projects\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmFaceRecogInit.resources
+c:\users\eridas\documents\visual studio 2015\Projects\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmSpeechRecogInit.resources
+C:\Users\Eridas\Desktop\eejk\EJJK File Security\EJJK File Security\bin\Debug\EJJK File Security.exe.config
+C:\Users\Eridas\Desktop\eejk\EJJK File Security\EJJK File Security\obj\Debug\EJJK File Security.exe
+C:\Users\Eridas\Desktop\eejk\EJJK File Security\EJJK File Security\obj\Debug\EJJK File Security.pdb
+C:\Users\Eridas\Desktop\eejk\EJJK File Security\EJJK File Security\bin\Debug\EJJK File Security.exe
+C:\Users\Eridas\Desktop\eejk\EJJK File Security\EJJK File Security\bin\Debug\EJJK File Security.pdb
+C:\Users\Eridas\Desktop\eejk\EJJK File Security\EJJK File Security\obj\Debug\EJJK File Security.csprojResolveAssemblyReference.cache
+C:\Users\Eridas\Desktop\eejk\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmControlPanel.resources
+C:\Users\Eridas\Desktop\eejk\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmFaceRecogInit.resources
+C:\Users\Eridas\Desktop\eejk\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmFaceRecogLogin.resources
+C:\Users\Eridas\Desktop\eejk\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmFileSelector.resources
+C:\Users\Eridas\Desktop\eejk\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmPasswordEntryInit.resources
+C:\Users\Eridas\Desktop\eejk\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmPasswordEntryLogin.resources
+C:\Users\Eridas\Desktop\eejk\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmPinInit.resources
+C:\Users\Eridas\Desktop\eejk\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmPinEntryLogin.resources
+C:\Users\Eridas\Desktop\eejk\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.Properties.Resources.resources
+C:\Users\Eridas\Desktop\eejk\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmSettings.resources
+C:\Users\Eridas\Desktop\eejk\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmSpeechRecogInit.resources
+C:\Users\Eridas\Desktop\eejk\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmSpeechRecogLogin.resources
+C:\Users\Eridas\Desktop\eejk\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmStartInit.resources
+C:\Users\Eridas\Desktop\eejk\EJJK File Security\EJJK File Security\obj\Debug\EJJK_File_Security.frmStartScreen.resources
+C:\Users\Eridas\Desktop\eejk\EJJK File Security\EJJK File Security\obj\Debug\EJJK File Security.csproj.GenerateResource.Cache
