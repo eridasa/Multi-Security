@@ -1,0 +1,9 @@
+c:\users\eridas\documents\visual studio 2015\Projects\Groupexperiment2\Groupexperiment2\bin\Debug\Groupexperiment2.exe.config
+c:\users\eridas\documents\visual studio 2015\Projects\Groupexperiment2\Groupexperiment2\bin\Debug\Groupexperiment2.exe
+c:\users\eridas\documents\visual studio 2015\Projects\Groupexperiment2\Groupexperiment2\bin\Debug\Groupexperiment2.pdb
+c:\users\eridas\documents\visual studio 2015\Projects\Groupexperiment2\Groupexperiment2\obj\Debug\Groupexperiment2.csprojResolveAssemblyReference.cache
+c:\users\eridas\documents\visual studio 2015\Projects\Groupexperiment2\Groupexperiment2\obj\Debug\Groupexperiment2.Form1.resources
+c:\users\eridas\documents\visual studio 2015\Projects\Groupexperiment2\Groupexperiment2\obj\Debug\Groupexperiment2.Properties.Resources.resources
+c:\users\eridas\documents\visual studio 2015\Projects\Groupexperiment2\Groupexperiment2\obj\Debug\Groupexperiment2.csproj.GenerateResource.Cache
+c:\users\eridas\documents\visual studio 2015\Projects\Groupexperiment2\Groupexperiment2\obj\Debug\Groupexperiment2.exe
+c:\users\eridas\documents\visual studio 2015\Projects\Groupexperiment2\Groupexperiment2\obj\Debug\Groupexperiment2.pdb
